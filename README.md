@@ -1,2 +1,5 @@
-# gymnarium_agents_q_learning
-Agents crate for gymnarium framework containing agents using Q-Learning.
+# Gymnarium: Q-learning Agents
+
+Agents crate for [Gymnarium](https://github.com/tiquthon/gymnarium) framework.
+
+Contains agents using Q-Learning.
